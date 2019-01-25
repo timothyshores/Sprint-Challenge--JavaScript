@@ -92,19 +92,19 @@ Test your knowledge of objects and arrays.
 
 This challenge takes a look at callbacks and closures as well as scope.
 
-- [ ] Use the [functions.js](challenges/functions.js) link to get started. Read the instructions carefully!
+- ✅ Use the [functions.js](challenges/functions.js) link to get started. Read the instructions carefully!
 
 ## Task 3: Prototypes
 
 Create constructors, bind methods, and create cuboids in this prototypes challenge.
 
-- [ ] Use the [prototypes.js](challenges/prototypes.js) link to get started. Read the instructions carefully!
+- ✅ Use the [prototypes.js](challenges/prototypes.js) link to get started. Read the instructions carefully!
 
 ## Task 4: Classes
 
 Once you have completed the prototypes challenge, it's time to convert all your hard work into classes.
 
-- [ ] Use the [classes.js](challenges/classes.js) link to get started. Read the instructions carefully!
+- ✅ Use the [classes.js](challenges/classes.js) link to get started. Read the instructions carefully!
 
 In your solutions, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
 
