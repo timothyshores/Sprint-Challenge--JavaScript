@@ -86,7 +86,7 @@ Your finished project must include all of the following requirements:
 
 Test your knowledge of objects and arrays.
 
-- [ ] Use the [objects-arrays.js](challenges/objects-arrays.js) link to get started. Read the instructions carefully!
+- ✅ Use the [objects-arrays.js](challenges/objects-arrays.js) link to get started. Read the instructions carefully!
 
 ## Task 2: Functions
 
